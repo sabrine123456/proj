@@ -1,0 +1,18 @@
+00:00:00.457907 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.457909 Log opened 2020-10-19T14:33:31.213111900Z
+00:00:00.457910 Build Type: release
+00:00:00.457913 OS Product: Windows 10
+00:00:00.457914 OS Release: 10.0.18362
+00:00:00.457915 OS Service Pack: 
+00:00:00.466507 DMI Product Name: GF63 Thin 10SCXR
+00:00:00.469161 DMI Product Version: REV:1.0
+00:00:00.469182 Firmware type: UEFI
+00:00:00.469354 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.469368 Host RAM: 24393MB (23.8GB) total, 10171MB (9.9GB) available
+00:00:00.469370 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.469371 Process ID: 9916
+00:00:00.469371 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.469474 Qt version: 5.6.2
+00:00:00.477879 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.477906 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.926514 refreshCertificates/#3: Found 1/59 SSL certs we/you trust (previously 0/0).
